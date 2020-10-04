@@ -1,3 +1,7 @@
+# Kian fork
+This is for my one one-time use for a specific smugmug site. Not for general purpose.
+I've never written python before and this is a super bodge so dont hurt me.
+
 # SmugMug Downloader
 Download all of the pictures from a SmugMug user, including password-protected users (you must know the password). This method is slightly inefficient, but works without requiring a SmugMug API key or any other information.
 
